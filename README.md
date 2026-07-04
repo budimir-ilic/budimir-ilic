@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="cover-image.png" alt="Prof. Budimir S. Ilić | Organic, Medicinal and Computational Chemistry" width="100%">
+</p>
+
+<h1 align="center">Prof. Budimir S. Ilić</h1>
+
+<p align="center">
+  Organic • Medicinal • Computational Chemistry  
+  <br>
+  Rational Drug Design • Molecular Modeling • Machine Learning • Drug Repurposing
+</p>## Hi there 👋
 
 <!--
 **budimir-ilic/budimir-ilic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
